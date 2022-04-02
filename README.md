@@ -1,4 +1,4 @@
-# -s-pain ||| PLEASE REFER -s-pain2 in the same account. It is the updated version @jury
+# -s-pain ||| PLEASE REFER -s-painv2 in the same account. It is the updated version @jury
 
 ===========READ TITLE================
 Config files for my GitHub profile.<br>
